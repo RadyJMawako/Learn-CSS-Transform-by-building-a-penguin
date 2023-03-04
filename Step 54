@@ -1,0 +1,11 @@
+:root {
+  --penguin-face: white;
+}
+
+.face {
+  background-color: var(--penguin-face);
+}
+
+.chin {
+  background-color: var(--penguin-face);
+}
